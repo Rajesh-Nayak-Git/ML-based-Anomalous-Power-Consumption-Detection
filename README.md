@@ -1,0 +1,1 @@
+In this work, anomalous power consumption detection has been performed using micro-moment classification. Five ML-based classifiers namely, Random Forest, Support Vector Machine, K Nearest Neighbors, Naive Bayes, and Decision Tree were used in the experiments. Both 80:20 and 10-fold cross-alidation based experiments were conducted.
